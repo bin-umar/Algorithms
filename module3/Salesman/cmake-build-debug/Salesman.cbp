@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Salesman"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jahongir/CLionProjects/Salesman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jahongir/CLionProjects/Salesman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Salesman">
+				<Option output="/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Salesman" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jahongir/CLionProjects/Salesman/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 Salesman"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Salesman/fast">
+				<Option output="/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Salesman" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jahongir/CLionProjects/Salesman/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 Salesman/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jahongir/CLionProjects/Salesman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jahongir/CLionProjects/Salesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jahongir/CLionProjects/Salesman/include/MST.h">
+			<Option target="Salesman"/>
+		</Unit>
+		<Unit filename="/home/jahongir/CLionProjects/Salesman/include/TSP_BF.h">
+			<Option target="Salesman"/>
+		</Unit>
+		<Unit filename="/home/jahongir/CLionProjects/Salesman/include/checker.h">
+			<Option target="Salesman"/>
+		</Unit>
+		<Unit filename="/home/jahongir/CLionProjects/Salesman/include/dots.h">
+			<Option target="Salesman"/>
+		</Unit>
+		<Unit filename="/home/jahongir/CLionProjects/Salesman/include/graph.h">
+			<Option target="Salesman"/>
+		</Unit>
+		<Unit filename="/home/jahongir/CLionProjects/Salesman/main.cpp">
+			<Option target="Salesman"/>
+		</Unit>
+		<Unit filename="/home/jahongir/CLionProjects/Salesman/src/MST.cpp">
+			<Option target="Salesman"/>
+		</Unit>
+		<Unit filename="/home/jahongir/CLionProjects/Salesman/src/TSP_BF.cpp">
+			<Option target="Salesman"/>
+		</Unit>
+		<Unit filename="/home/jahongir/CLionProjects/Salesman/src/TSP_MST.cpp">
+			<Option target="Salesman"/>
+		</Unit>
+		<Unit filename="/home/jahongir/CLionProjects/Salesman/src/checker.cpp">
+			<Option target="Salesman"/>
+		</Unit>
+		<Unit filename="/home/jahongir/CLionProjects/Salesman/src/dots.cpp">
+			<Option target="Salesman"/>
+		</Unit>
+		<Unit filename="/home/jahongir/CLionProjects/Salesman/src/graph.cpp">
+			<Option target="Salesman"/>
+		</Unit>
+		<Unit filename="/home/jahongir/CLionProjects/Salesman/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

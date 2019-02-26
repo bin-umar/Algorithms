@@ -1,0 +1,3 @@
+/home/jahongir/CLionProjects/Salesman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jahongir/CLionProjects/Salesman/cmake-build-debug/CMakeFiles/Salesman.dir
+/home/jahongir/CLionProjects/Salesman/cmake-build-debug/CMakeFiles/edit_cache.dir

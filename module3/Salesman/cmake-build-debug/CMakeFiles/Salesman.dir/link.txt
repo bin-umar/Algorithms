@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Salesman.dir/main.cpp.o CMakeFiles/Salesman.dir/src/checker.cpp.o CMakeFiles/Salesman.dir/src/dots.cpp.o CMakeFiles/Salesman.dir/src/graph.cpp.o CMakeFiles/Salesman.dir/src/MST.cpp.o CMakeFiles/Salesman.dir/src/TSP_BF.cpp.o CMakeFiles/Salesman.dir/src/TSP_MST.cpp.o  -o Salesman 
